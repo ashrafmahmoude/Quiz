@@ -15,6 +15,10 @@ A simple console-based multiple-choice quiz application written in C++. Users ca
 - Windows OS (for colored output using `Windows.h`)
 - C++17 or later
 - Any C++ compiler (e.g., g++, MSVC)
+- ## 📸 Screenshot
+
+![2jpg](https://github.com/user-attachments/assets/0314ae74-ea47-4b59-9390-e33dbeccb197)
+
 
 ## 📂 File Structure
 
@@ -37,9 +41,7 @@ use code blouck
 🎨 Console Colors
 • 	✅ Correct answers are shown in green
 • 	❌ Incorrect answers are shown in red
-## 📸 Screenshot
 
-![Quiz App Screenshot](2jpg.jpg)
 
 
 
