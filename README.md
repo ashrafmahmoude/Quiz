@@ -37,7 +37,8 @@ use code blouck
 🎨 Console Colors
 • 	✅ Correct answers are shown in green
 • 	❌ Incorrect answers are shown in red
+<img width="987" height="518" alt="image" src="https://github.com/user-attachments/assets/2e4fae53-eb10-44d6-b7e1-c0a036e04525" />
 
-<img width="976" height="512" alt="image" src="https://github.com/user-attachments/assets/ac0433d2-6e60-4fe6-9908-a7746b6a6424" />
-<img width="987" height="518" alt="image" src="https://github.com/user-attachments/assets/b7fee595-04ce-430c-8f2b-3d46df564359" />
+
+
 
