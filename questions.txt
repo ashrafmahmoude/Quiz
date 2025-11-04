@@ -1,0 +1,21 @@
+Which keyword is used to define a constant?
+a) const
+b) static
+c) final
+d) define
+a
+
+Which header file is needed for cout?
+a) stdio.h
+b) iostream
+c) conio.h
+d) cstdlib
+b
+
+Which loop is guaranteed to run at least once?
+a) for
+b) while
+c) do-while
+d) foreach
+c
+

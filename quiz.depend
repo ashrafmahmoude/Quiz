@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1762254811 source:c:\users\pppp\documents\test\quiz\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+
