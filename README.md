@@ -37,7 +37,9 @@ use code blouck
 🎨 Console Colors
 • 	✅ Correct answers are shown in green
 • 	❌ Incorrect answers are shown in red
-<img width="987" height="518" alt="image" src="https://github.com/user-attachments/assets/2e4fae53-eb10-44d6-b7e1-c0a036e04525" />
+## 📸 Screenshot
+
+![Quiz App Screenshot](2jpg.jpg)
 
 
 
